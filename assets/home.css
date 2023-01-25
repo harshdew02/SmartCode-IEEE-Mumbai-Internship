@@ -1,5 +1,4 @@
 #editor {
-  /* position: absolute; */
   left: 0;
   right: 0;
   top: 0;
@@ -273,9 +272,6 @@
   background-color: #00457f;
 }
 @media(max-width: 1200px) {
-  /* .home-container01 {
-    box-shadow: 5px 10px 10px 0px rgba(212, 212, 212, 0.24);
-  } */
   .home-container03 {
     max-height: var(--dl-size-size-maxwidth);
   }
